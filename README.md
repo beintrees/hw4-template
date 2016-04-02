@@ -1,8 +1,6 @@
 #HW4 Sorted Doubly Linked List 
 
-#First-Name Last-Name
-
-TODO - Update your name in this readme.
+#Rebecca Stankus
 
 TODO - Add a badge from travis CI here
 
